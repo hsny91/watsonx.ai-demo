@@ -1,0 +1,51 @@
+[
+    {
+        "question": "What is the most expensive part in training a Large Language Model?",
+        "correct_answer": "The majority of the cost of training an LLM comes from the pre-training phase. During this phase, a model is trained in an auto-regressive manner to predict the next token in the target language using trillions of tokens worth of unlabeled data, requiring thousands of GPUs training for months at a time.",
+        "correct_answer_document_ids": [
+            "LAB 2024 paper.pdf"
+        ]
+    },
+    {
+        "question": "What are the components of LAB?",
+        "correct_answer": "There are two main components: a taxonomy to enable data curation and guide the synthetic data generation,and a multi-phased instruction-tuning method to enable large-scale alignment-tuning.",
+        "correct_answer_document_ids": [
+            "LAB 2024 paper.pdf"
+        ]
+    },
+    {
+        "question": "What are the main branchs of the LAB taxonomy?",
+        "correct_answer": "There are three main branches: knowledge, foundational skills, and compositional skills.",
+        "correct_answer_document_ids": [
+            "LAB 2024 paper.pdf"
+        ]
+    },
+    {
+        "question": "In a knowledge use case, what type of documents can be selected for synthetic data generation?",
+        "correct_answer": "In a knowledge use case, only documents with permissible licenses can be selected for synthetic data generation.",
+        "correct_answer_document_ids": [
+            "LAB 2024 paper.pdf"
+        ]
+    },
+    {
+        "question": "What are some examples of founcational skills?",
+        "correct_answer": "Some examples of foundational skills include mathematics, coding, linguisitic ability, and reasoning.",
+        "correct_answer_document_ids": [
+            "LAB 2024 paper.pdf"
+        ]
+    },
+    {
+        "question": "What are some templates available for Skills-SDG?",
+        "correct_answer": "Instruction generation, Evaluating synthetic instruction, and Generating responses.",
+        "correct_answer_document_ids": [
+            "LAB 2024 paper.pdf"
+        ]
+    },
+    {
+        "question": "How are the models trained in terms of parallelism?",
+        "correct_answer": "A mixture of 3D parallelism, pipeline parallelism, data parallelism are used",
+        "correct_answer_document_ids": [
+            "LAB 2024 paper.pdf"
+        ]
+    }
+]
