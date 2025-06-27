@@ -1,6 +1,6 @@
 # IBM watsonx.ai Labs
 
-Welcome to the official learning hub for **IBM watsonx.ai**. This repository contains a growing collection of hands-on labs designed to help you **experiment, build, and deploy** with IBM's enterprise-ready AI platform.
+Welcome to the learning hub for **IBM watsonx.ai**. This repository contains a growing collection of hands-on labs designed to help you **experiment, build, and deploy** with IBM's enterprise-ready AI platform.
 
 ---
 
